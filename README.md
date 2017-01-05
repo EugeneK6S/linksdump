@@ -16,3 +16,8 @@ https://hackernoon.com/deploy-docker-compose-v3-to-swarm-mode-cluster-4159e9cca7
 - Native Prometheus in Docker: 
 
 https://medium.com/@basilio.vera/docker-swarm-metrics-in-prometheus-e02a6a5745a#.945iv75t2
+
+# EvilCorp aka HashiCorp :)
+- Terrafile: one for all
+
+https://tech.cars.com/terraform-cars-com-dd1291e46c88
