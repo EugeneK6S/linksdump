@@ -17,6 +17,10 @@ https://hackernoon.com/deploy-docker-compose-v3-to-swarm-mode-cluster-4159e9cca7
 
 https://medium.com/@basilio.vera/docker-swarm-metrics-in-prometheus-e02a6a5745a#.945iv75t2
 
+- Useful tricks
+
+https://codefresh.io/blog/everyday-hacks-docker/
+
 # EvilCorp aka HashiCorp :)
 - Terrafile: one for all
 
