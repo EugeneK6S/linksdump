@@ -21,6 +21,10 @@ https://medium.com/@basilio.vera/docker-swarm-metrics-in-prometheus-e02a6a5745a#
 
 https://codefresh.io/blog/everyday-hacks-docker/
 
+- While they work on UID/GID remap, alternative is:
+
+https://denibertovic.com/posts/handling-permissions-with-docker-volumes/
+
 # EvilCorp aka HashiCorp :)
 - Terrafile: one for all
 
