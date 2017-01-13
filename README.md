@@ -5,27 +5,17 @@
 
 
 # Good Docker Stuff 
-- Soft GC of Docker Registry: 
+- Soft GC of Docker Registry: https://github.com/hcguersoy/cleanreg
 
-https://github.com/hcguersoy/cleanreg
+- Compose v3 and docker deploy: https://hackernoon.com/deploy-docker-compose-v3-to-swarm-mode-cluster-4159e9cca712#.a3v22x4yb
 
-- Compose v3 and docker deploy: 
+- Native Prometheus in Docker: https://medium.com/@basilio.vera/docker-swarm-metrics-in-prometheus-e02a6a5745a#.945iv75t2
 
-https://hackernoon.com/deploy-docker-compose-v3-to-swarm-mode-cluster-4159e9cca712#.a3v22x4yb
+- Useful tricks: https://codefresh.io/blog/everyday-hacks-docker/
 
-- Native Prometheus in Docker: 
+- While they work on UID/GID remap, alternative is: https://denibertovic.com/posts/handling-permissions-with-docker-volumes/
 
-https://medium.com/@basilio.vera/docker-swarm-metrics-in-prometheus-e02a6a5745a#.945iv75t2
-
-- Useful tricks
-
-https://codefresh.io/blog/everyday-hacks-docker/
-
-- While they work on UID/GID remap, alternative is:
-
-https://denibertovic.com/posts/handling-permissions-with-docker-volumes/
+- Look at InfraKit: https://www.gesellix.net/post/blue-green-deployment-with-docker-infrakit/
 
 # EvilCorp aka HashiCorp :)
-- Terrafile: one for all
-
-https://tech.cars.com/terraform-cars-com-dd1291e46c88
+- Terrafile, one for all: https://tech.cars.com/terraform-cars-com-dd1291e46c88
